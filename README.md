@@ -18,6 +18,7 @@ O **ClashWorks** lê relatórios HTML exportados do Navisworks e cria um painel 
 2. Baixe o instalador mais recente (`ClashWorks_Installer.exe`).
 3. Execute a instalação.
 4. Abra o Revit. O botão estará disponível na aba **Suplementos (Add-Ins)**.
+
 https://github.com/user-attachments/assets/826c2007-532b-449f-8029-ca3ab9598efc
 
 ## 📖 Como Usar
