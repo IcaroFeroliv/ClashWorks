@@ -33,3 +33,9 @@ O **ClashWorks** lê relatórios HTML exportados do Navisworks e cria um painel 
 * WPF (Windows Presentation Foundation) para UI/UX
 * HtmlAgilityPack (Parsing do relatório HTML)
 * Newtonsoft.Json (Sistema de memória de sessão)
+
+
+
+https://github.com/user-attachments/assets/826c2007-532b-449f-8029-ca3ab9598efc
+
+
